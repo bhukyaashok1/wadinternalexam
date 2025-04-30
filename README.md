@@ -12,3 +12,8 @@
 2. **Validation:**
    - **DTD Validation:** The XML file links to `bookstore.dtd` using the `<!DOCTYPE>` declaration.
    - **XSD Validation:** The XML file also references `bookstore.xsd` using the `xsi:noNamespaceSchemaLocation` attribute.
+
+
+![image](https://github.com/user-attachments/assets/afd5b4ca-ecb1-4643-b0f5-35fb9142133f)
+![image](https://github.com/user-attachments/assets/532f66e2-e37b-43f6-bc82-23964fab7664)
+
